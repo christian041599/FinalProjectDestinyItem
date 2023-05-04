@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Destiny Backgroun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Destiny Backgroun.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-abbadon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-abbadon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-abyss_defiant_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-abyss_defiant_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-a_little_voice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-a_little_voice.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-ace_of_spades" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-ace_of_spades.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-anguish_of_drystan_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-anguish_of_drystan_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-atheon's_epilogue_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-atheon's_epilogue_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-bad_juju" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-bad_juju.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-black_spindle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-black_spindle.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-black_trung-d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-black_trung-d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-bronzed_chasma_esc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-bronzed_chasma_esc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-chain_of_orbiks-fel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-chain_of_orbiks-fel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-dead_air_09f3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-dead_air_09f3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-duke_mk._21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-duke_mk._21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-fabian_strategy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-fabian_strategy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-fatebringer_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-fatebringer_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-felwinter's_lie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-felwinter's_lie.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-fever_and_remedy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-fever_and_remedy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-genesis_chain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-genesis_chain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-hard_light" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-hard_light.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-hawkmoon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-hawkmoon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-hawksaw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-hawksaw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-hereafter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-hereafter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-hieracon-lr3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-hieracon-lr3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-hotspur-a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-hotspur-a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-ice_breaker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-ice_breaker.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-invective" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-invective.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-izdubar-d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-izdubar-d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-khvostov_7g-02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-khvostov_7g-02.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-lord_of_wolves" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-lord_of_wolves.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-maria-mg3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-maria-mg3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-monte_carlo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-monte_carlo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-mos_ganon_iii" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-mos_ganon_iii.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-necrochasm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-necrochasm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-nemesis_star" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-nemesis_star.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-no_land_beyond (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-no_land_beyond (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-no_time_to_explain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-no_time_to_explain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-nova_mortis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-nova_mortis.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-omolon_test_rr1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-omolon_test_rr1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-outbreak_prime" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-outbreak_prime.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-outlander_mk._38" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-outlander_mk._38.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-oversoul_edict_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-oversoul_edict_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-patience_and_time" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-patience_and_time.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-praedyth's_timepiece_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-praedyth's_timepiece_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-preacher_mk._22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-preacher_mk._22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-psi_umbra_i" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-psi_umbra_i.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-qua_roris_i" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-qua_roris_i.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-red_death" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-red_death.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-sargon-b1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-sargon-b1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-shingen-c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-shingen-c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-smite_of_merain_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-smite_of_merain_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-steel_medulla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-steel_medulla.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-super_good_advice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-super_good_advice.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-suros_regime" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-suros_regime.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-the_4th_horseman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-the_4th_horseman.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-the_chaperone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-the_chaperone.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-the_first_curse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-the_first_curse.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-the_last_word" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-the_last_word.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-the_palindrome" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-the_palindrome.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-wolfslayer's_claw_ii" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-wolfslayer's_claw_ii.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-word_of_crota_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-word_of_crota_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-y-09_longbow_synthesis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-y-09_longbow_synthesis.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-zaouli's_bane_(adept)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-zaouli's_bane_(adept).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-zhalo_supercell" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-zhalo_supercell.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-universal_remote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-universal_remote.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-thunderlord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-thunderlord.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="weapon-tn-thorn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weapon-tn-thorn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

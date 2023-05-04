@@ -1,0 +1,21 @@
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\bin\Debug\net6.0-windows\Destiny Items.exe
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\bin\Debug\net6.0-windows\Destiny Items.deps.json
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\bin\Debug\net6.0-windows\Destiny Items.runtimeconfig.json
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\bin\Debug\net6.0-windows\Destiny Items.dll
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\bin\Debug\net6.0-windows\Destiny Items.pdb
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.csproj.AssemblyReference.cache
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny_Items.Form1.resources
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny_Items.Properties.Resources.resources
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.csproj.GenerateResource.cache
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.AssemblyInfoInputs.cache
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.AssemblyInfo.cs
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.csproj.CoreCompileInputs.cache
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.dll
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\refint\Destiny Items.dll
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.pdb
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny Items.genruntimeconfig.cache
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\ref\Destiny Items.dll
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny_Items.Form2.resources
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny_Items.Form4.resources
+C:\Users\rchol\Desktop\allawd1100coursework-christian041599\Final Project\Application Code\Destiny Items\Destiny Items\obj\Debug\net6.0-windows\Destiny_Items.Form3.resources

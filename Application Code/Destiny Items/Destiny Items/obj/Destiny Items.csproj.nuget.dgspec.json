@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rchol\\Desktop\\allawd1100coursework-christian041599\\Final Project\\Application Code\\Destiny Items\\Destiny Items\\Destiny Items.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rchol\\Desktop\\allawd1100coursework-christian041599\\Final Project\\Application Code\\Destiny Items\\Destiny Items\\Destiny Items.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rchol\\Desktop\\allawd1100coursework-christian041599\\Final Project\\Application Code\\Destiny Items\\Destiny Items\\Destiny Items.csproj",
+        "projectName": "Destiny Items",
+        "projectPath": "C:\\Users\\rchol\\Desktop\\allawd1100coursework-christian041599\\Final Project\\Application Code\\Destiny Items\\Destiny Items\\Destiny Items.csproj",
+        "packagesPath": "C:\\Users\\rchol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rchol\\Desktop\\allawd1100coursework-christian041599\\Final Project\\Application Code\\Destiny Items\\Destiny Items\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rchol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
